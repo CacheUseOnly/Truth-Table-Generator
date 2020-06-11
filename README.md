@@ -10,4 +10,5 @@ Press any key (Windows) or enter key (Linux) to start another calculation
 | AND     | &&    |
 | OR      | \|\|  |
 | Negate  | !     |
+
 Use of parenthese is supported
