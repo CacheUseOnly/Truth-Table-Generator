@@ -2,7 +2,7 @@
  *Logic Calculator
  *
  *Author:	Kiran Bohyer & Yuxuan Luo
- *Date:		April 2nd
+ *Date:		April 2nd 2019
  */
 
 #include"header.h"
