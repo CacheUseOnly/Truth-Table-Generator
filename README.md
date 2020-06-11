@@ -1,4 +1,4 @@
-# Truth-Table-Generator
+# Truth Table Generator
 Command line program that print truth table from given input using "&amp;&amp;", "||" or "!"
 ## Usage
 Input your boolean equation from keyboard
